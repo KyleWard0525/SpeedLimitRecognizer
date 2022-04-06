@@ -1,0 +1,6 @@
+numpy
+opencv-python
+tensorflow
+ann_visualizer
+matplotlib
+graphviz
